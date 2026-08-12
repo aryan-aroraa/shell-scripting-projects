@@ -6,6 +6,19 @@ The goal of these projects was to move beyond individual Linux commands and prac
 
 ---
 
+## 📑 Table of Contents
+
+- [Projects](#-projects)
+  - [Filesystem Status Monitor](#1-filesystem-status-monitor)
+  - [RAM Status Monitor](#2-ram-status-monitor)
+  - [Linux User Creation Script](#3-linux-user-creation-script)
+  - [Automated File Archiver](#4-automated-file-archiver)
+  - [AWS CLI Management Tool](#5-aws-cli-management-tool)
+- [Requirements](#️-requirements)
+- [Getting Started](#-getting-started)
+- [What I Learned](#-what-i-learned)
+- [Disclaimer](#-disclaimer)
+
 ## 📂 Projects
 
 ### 1. Filesystem Status Monitor
